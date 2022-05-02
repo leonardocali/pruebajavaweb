@@ -1,0 +1,103 @@
+#body3{
+   background:greenyellow;
+}
+#body2{
+   background:cadetblue;
+}
+
+body1{
+   background:none;
+}
+
+.container2{
+    display:flex;
+    justify-content: center;
+}
+#salirage{
+    display:flex;
+    justify-content: center;
+    background-color: red;
+}
+#nuevoConta{
+    align-items: center;
+    width: 260px;
+}
+
+.container{
+    display:flex;
+    margin-top: 40px;
+    justify-content: center;
+    background: yellow;
+    height: 300px;
+    
+}
+.item{
+    order: 5;
+    margin-top: 50px; 
+}
+
+h2, h1{
+    margin-top: 50px;
+    text-align: center;
+}
+#guardar{
+    width: 260px;
+}
+#iniguar{
+    width: 260px;
+    background: greenyellow;
+} 
+
+
+
+#passw{
+   width: 160px; 
+}
+#registrar{
+   width: 260px; 
+}
+
+#perror{
+    color: white;
+}
+#container3{
+    display:flex;
+    justify-content: center;
+    background-color:cadetblue; 
+    margin-top: 20px;
+    height: 300px;
+}
+
+#fondoregistro{
+    background: red;
+} 
+
+#ininuereg{
+    width: 260px;
+    background: greenyellow;
+}
+
+#container4{
+    display:flex;
+    justify-content: center;
+    background-color:coral;
+    margin-top: 20px;
+    height: 300px;
+}
+
+#salagenda {
+    align-items: center;
+    width: 260px;
+    background-color: red;
+    
+}
+#textA{
+    color: white
+}
+
+#registroUser{
+   width: 260px; 
+   background-color: yellow;
+   color: black;
+}
+
